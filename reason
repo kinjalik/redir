@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+	<title>Redirecting</title>
+	<meta http-equiv="Cache-control" content="no-cache">
+	<meta http-equiv="Expires" content="-1">
+
+
+</head>
+<body>
+	<script>
+		window.location = "https://memepedia.ru/wp-content/uploads/2020/09/9ce2d3974b3dd6ca57cf9491b23c9949.jpg";
+	</script>
+</body>
